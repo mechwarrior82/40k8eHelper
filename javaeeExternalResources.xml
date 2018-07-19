@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://www.aras-corp.com" />
+    <ignored-resource url="urn:schemas-microsoft-com:xslt" />
+  </component>
+</application>
