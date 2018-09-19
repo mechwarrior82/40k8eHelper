@@ -14,6 +14,10 @@
           <option name="url" value="https://gitlab.com/james_neotek/load-cell-flow-loop.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/james_neotek/wfa-2.0-load-cell-lab-review.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\jadams\PycharmProjects" />
