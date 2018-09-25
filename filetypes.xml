@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="pb" type="PLAIN_TEXT" />
+      <mapping pattern="My_Alfred.py" type="Python" />
     </extensionMap>
   </component>
 </application>
